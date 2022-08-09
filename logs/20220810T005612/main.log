@@ -1,0 +1,5 @@
+[2022-08-10 00:56:15.018] [main] [info] update#setState idle
+[2022-08-10 00:56:21.200] [main] [info] Starting extension host with pid 8685 (fork() took 6 ms).
+[2022-08-10 00:56:45.028] [main] [info] update#setState checking for updates
+[2022-08-10 00:56:45.096] [main] [info] update#setState idle
+[2022-08-10 00:56:53.911] [main] [info] Extension host with pid 8685 exited with code: 0, signal: null.
